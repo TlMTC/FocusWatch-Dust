@@ -1,4 +1,4 @@
-# （ps:本项目由ai生成，哪里错了是ai的事，不关本皇上事^^）
+# （ps:本项目由ai生成，哪里错了是ai的事，不关本皇上事^^ 以及设备要求ios）
 # 🚀 FocusWatch Dust (FocusWatch-灰尘)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
