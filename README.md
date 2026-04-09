@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)](https://www.microsoft.com/windows)
-
+（ps:本项目由ai生成，哪里错了是ai，不关本皇上事^^）
 **FocusWatch Dust** 是一款基于本地 OCR 技术的实时屏幕监控与强提醒工具。它能够精准识别屏幕特定区域的关键词，并通过视觉监控指示灯、听觉蜂鸣以及移动端推送，确保你在第一时间获取关键信息。
 
 ---
