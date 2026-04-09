@@ -18,6 +18,8 @@
 
 ---
 
+## 一键使用安装链接：https://github.com/TlMTC/FocusWatch-Dust/releases/tag/v1.4
+
 ## 🛠️ 环境部署与运行
 
 ### 1. 克隆仓库
