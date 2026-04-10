@@ -18,7 +18,7 @@
 
 ---
 
-## 一键使用安装链接：https://github.com/TlMTC/FocusWatch-Dust/releases/tag/v1.4
+## 一键使用安装：https://github.com/TlMTC/FocusWatch-Dust/releases/tag/v1.4.1
 
 ## 🛠️ 环境部署与运行
 
